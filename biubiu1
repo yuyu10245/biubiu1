@@ -1,5 +1,4 @@
-//编辑完所有项目后，把内容全部复制粘贴到全局接口，保存即可使用。
-//主页接口支持以下5种接口格式，只要后缀是以下5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
+
 {"zhuyejiekou": [
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"飓风影院","url":"http://yidayy.top/lehailb_api.php/v1.vod"},
